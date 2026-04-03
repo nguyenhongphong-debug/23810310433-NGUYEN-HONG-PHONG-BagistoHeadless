@@ -34,9 +34,9 @@ Payload lớn hơn	Payload nhỏ hơn
 Có thể dư thừa dữ liệu	Tối ưu băng thông
 
 CÂU 2:  Thay đổi giá sản phẩm dùng Query hay Mutation?
-Nếu muốn thay đổi giá sản phẩm qua GraphQL, ta phải dùng:
+Nếu muốn thay đổi giá sản phẩm qua GraphQL, em dùng:
 Mutation
-Giải thích
+Giải thích:
 Trong GraphQL có 2 loại hành động chính:
 Query
 Dùng để lấy dữ liệu từ server.
